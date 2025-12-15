@@ -6,3 +6,4 @@ Dự án này là nơi tôi thực hành các thao tác cơ bản với **Git** 
 ## Mục tiêu
 - Tạo Repository và Commit code.
 - Thực hành tạo Branch và Pull Request (PR).
+<!-- test commit author -->
